@@ -33,3 +33,10 @@ Project ini mempelajari cara mempelajari cara Convolutional Generative Adversari
 
 ## Tech Stack
 - Python
+
+
+
+## Setup 
+
+**Pandas**, **numpay**, **Sklearn**, **Seaborn**, **matplotlib**, **keras**, **tensorflof**, **skillsnetwork**. 
+
