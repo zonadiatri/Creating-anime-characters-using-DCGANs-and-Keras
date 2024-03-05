@@ -13,7 +13,7 @@ Author :
 
 Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Cognitive Class of Creating anime characters using DCGANs and Keras
 
-Project ini mempelajari cara mempelajari cara Convolutional Generative Adversarial Networks (DCGANs) and Keras. Dimana pada project ini terdapat generator untuk memalsukan data asli atau membuat model baru dari data asli, serta juga descriminator dimana disini untuk mengetahui data asli dan juga data palsunya.
+Project ini mempelajari cara mempelajari cara Convolutional Generative Adversarial Networks (DCGANs) and Keras. Dimana pada project ini terdapat generator untuk memalsukan data asli atau membuat model baru dari data asli, serta juga descriminator untuk mengetahui data asli dan juga data palsunya.
 
 
 
